@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "t-v-single-spa-sample-chat-bot-message-e",
+  "editForm": "t-v-single-spa-sample-chat-bot-message-e",
+  "external": false,
+  "caption": "Chat bot message",
+  "name": "TVSingleSpaSampleChatBotMessageL",
+  "className": "ChatBotMessageL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-chat-bot-message",
+      "modelProjection": "ChatBotMessageL"
+    }
+  ]
+}

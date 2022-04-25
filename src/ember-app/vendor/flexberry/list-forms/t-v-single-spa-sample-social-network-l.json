@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "t-v-single-spa-sample-social-network-e",
+  "editForm": "t-v-single-spa-sample-social-network-e",
+  "external": false,
+  "caption": "Social network",
+  "name": "TVSingleSpaSampleSocialNetworkL",
+  "className": "SocialNetworkL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-social-network",
+      "modelProjection": "SocialNetworkL"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "t-v-single-spa-sample-person-meta-data-e",
+  "editForm": "t-v-single-spa-sample-person-meta-data-e",
+  "external": false,
+  "caption": "Person meta data",
+  "name": "TVSingleSpaSamplePersonMetaDataL",
+  "className": "PersonMetaDataL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-person-meta-data",
+      "modelProjection": "PersonMetaDataL"
+    }
+  ]
+}

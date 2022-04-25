@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "socialNetwork",
+      "displayAttributeName": "name",
+      "required": true,
+      "relationName": "PersonAccount.SocialNetwork",
+      "projection": "SocialNetworkL",
+      "detailModelName": "t-v-single-spa-sample-person-account"
+    }
+  ],
+  "external": false,
+  "caption": "Person",
+  "name": "TVSingleSpaSamplePersonE",
+  "className": "PersonE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-person",
+      "modelProjection": "PersonE"
+    }
+  ]
+}

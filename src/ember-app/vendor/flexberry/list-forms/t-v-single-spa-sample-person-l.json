@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "t-v-single-spa-sample-person-e",
+  "editForm": "t-v-single-spa-sample-person-e",
+  "external": false,
+  "caption": "Person",
+  "name": "TVSingleSpaSamplePersonL",
+  "className": "PersonL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-person",
+      "modelProjection": "PersonL"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Social network",
+  "name": "TVSingleSpaSampleSocialNetworkE",
+  "className": "SocialNetworkE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "t-v-single-spa-sample-social-network",
+      "modelProjection": "SocialNetworkE"
+    }
+  ]
+}

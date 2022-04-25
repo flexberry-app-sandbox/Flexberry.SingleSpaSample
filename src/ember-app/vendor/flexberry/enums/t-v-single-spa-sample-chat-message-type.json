@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "TV.SingleSpaSample",
+  "className": "ChatMessageType",
+  "enumObjects": {
+    "Person": "",
+    "Bot": ""
+  }
+}

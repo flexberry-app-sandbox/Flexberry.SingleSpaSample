@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "TV.SingleSpaSample",
+  "className": "Sex",
+  "enumObjects": {
+    "Male": "",
+    "Female": "",
+    "Unknown": ""
+  }
+}
